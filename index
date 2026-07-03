@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>メッセージ</title>
+    <style>
+        body{
+            margin:0;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            background:#f5f5f5;
+            font-family:sans-serif;
+        }
+
+        h1{
+            font-size:60px;
+            color:#333;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>学校外の位置情報が検出されました。担当教員に通知されます。ご不明な点がございましたら、学びステーションまでおこしください。RITUMEIKAN　UNIVERSITY</h1>
+</body>
+</html>
